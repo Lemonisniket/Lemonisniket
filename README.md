@@ -23,5 +23,5 @@ Feel free to reach out for collaboration or just to say hi.
 <a href="https://t.me/JIeMoHuCHuKeT"><img src="https://img.shields.io/badge/-Telegram-2ca5e0?style=flat-square&logo=telegram&logoColor=white" height="20"/></a>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Status-Staring%20at%20code-orange?style=for-the-badge&logo=visual-studio-code" />
+<img src="https://img.shields.io/badge/Status-Is%20mayonnaise%20an%20instrument%3F-ff69b4?style=for-the-badge&logo=spongepowered" />
 </p>
